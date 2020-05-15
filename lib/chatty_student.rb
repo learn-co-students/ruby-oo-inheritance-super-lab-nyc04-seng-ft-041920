@@ -9,6 +9,10 @@ class ChattyStudent < Student
         for a in 1..10 do
             super
         end 
+
+        #10.times do
+        #     super
+        # end
     end
 
 end
